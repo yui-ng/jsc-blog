@@ -10,24 +10,24 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: JohnCh's Home
+  title: jsc'home
   # Site subtitle
   subtitle: Welcome to my blog
   # Author name
-  author: John Chiao
+  author: jsc_want_SK_IOI
   # Site URL
-  url: https://johnch.us.ci
+  url: https://jsc.us.ci
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: https://cdn.luogu.com.cn/upload/usericon/1366636.png
+  favicon: https://cdn.luogu.com.cn/upload/usericon/2139720.png
   # Site logo
-  logo: https://cdn.luogu.com.cn/upload/usericon/1366636.png
+  logo: https://cdn.luogu.com.cn/upload/usericon/2139720.png
   # Site avatar
-  avatar: https://cdn.luogu.com.cn/upload/usericon/1366636.png
+  avatar: https://cdn.luogu.com.cn/upload/usericon/2139720.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -94,7 +94,7 @@ global:
     auto_expand: false
   # Whether to enable open graph
   open_graph:
-    enable: true
+    enable: false
     image: /images/redefine-og.webp # default og:image
     description: Hexo Theme Redefine, Redefine Your Hexo Journey.
   # Google Analytics
@@ -128,7 +128,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: JohnCh's Home
+  title: jsc'Home
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
@@ -171,11 +171,11 @@ home_banner:
     # Social links
     links:
       - icon: github # can also be "fa-brands fa-github"
-        url: https://github.com/JohnChiao75
+        url: https://github.com/JohnChiao75 # TODO: Update GitHub
       - icon: code
-        url: https://luogu.com.cn/user/1366636
+        url: https://luogu.com.cn/user/2139720
       - icon: email
-        url: johnchiao@outlook.com
+        url: 3583321811@qq.com
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # NAVIGATION BAR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -342,7 +342,7 @@ articles:
 # Docs: https://redefine-docs.ohevan.com/posts/comment
 comment:
   # Whether to enable comment
-  enable: true
+  enable: false
   # Comment system
   system: giscus # waline, gitalk, twikoo, giscus, utterances, artalk
   # System configuration
@@ -402,7 +402,7 @@ footer:
   # Icon in footer, write fontawesome icon code here
   icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
-  start: 2025/9/17 00:00:00
+  start: 2026/8/15 12:00:00
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
