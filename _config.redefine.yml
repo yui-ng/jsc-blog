@@ -171,7 +171,7 @@ home_banner:
     # Social links
     links:
       - icon: github # can also be "fa-brands fa-github"
-        url: https://github.com/JohnChiao75 # TODO: Update GitHub
+        url: https://github.com/jscakioi
       - icon: code
         url: https://luogu.com.cn/user/2139720
       - icon: email
