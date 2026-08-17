@@ -1,5 +1,5 @@
 ---
-title: 版权信息 - JohnCh's Home
+title: 版权信息 - jsc'home
 layout: copyright
 type: copyright
 comments: false

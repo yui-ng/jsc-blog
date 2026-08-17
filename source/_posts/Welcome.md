@@ -1,5 +1,5 @@
 ---
-name: Welcome!
+title: Welcome!
 author: JohnChiao75
 ---
 

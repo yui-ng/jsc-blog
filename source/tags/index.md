@@ -1,5 +1,5 @@
 ---
-title: 标签 - JohnCh's Home
+title: 标签 - jsc'home
 layout: tags
 type: tags
 comments: false  # 标签页通常不需要评论

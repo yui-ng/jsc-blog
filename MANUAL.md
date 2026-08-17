@@ -344,7 +344,7 @@ post_copyright:
   enable: true
   decode: false
   author_href:
-  location: JohnCh's Home
+  location: jsc'home
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   avatarSinks: true

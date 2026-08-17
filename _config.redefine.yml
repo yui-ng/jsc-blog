@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: https://cdn.luogu.com.cn/upload/usericon/2139720.png
+  favicon: https://cdn.luogu.com.cn/upload/usericon/2139710.png
   # Site logo
-  logo: https://cdn.luogu.com.cn/upload/usericon/2139720.png
+  logo: https://cdn.luogu.com.cn/upload/usericon/2139710.png
   # Site avatar
-  avatar: https://cdn.luogu.com.cn/upload/usericon/2139720.png
+  avatar: https://cdn.luogu.com.cn/upload/usericon/2139710.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -173,7 +173,7 @@ home_banner:
       - icon: github # can also be "fa-brands fa-github"
         url: https://github.com/jscakioi
       - icon: code
-        url: https://luogu.com.cn/user/2139720
+        url: https://luogu.com.cn/user/2139710
       - icon: email
         url: 3583321811@qq.com
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
