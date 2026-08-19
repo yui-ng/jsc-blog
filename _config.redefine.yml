@@ -200,9 +200,9 @@ navbar:
     Categories:
       path: /categories
       icon: fa-regular fa-folder # can be empty
-    Links:
-      path: /links
-      icon: fa-regular fa-link # can be empty
+    洛谷:
+      path: https://luogu.com.cn/user/2139710
+      icon: fa-regular fa-link
     # Status:
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -211,9 +211,6 @@ navbar:
     #   submenus:
     #     Me: /about
     #     Github: https://github.com/JohnChiao75
-    开往:
-      icon: fa-regular fa-train-subway
-      path: https://www.travellings.cn/go.html
     #     Blog: https://ohevan.com
     #     Friends: /link
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
