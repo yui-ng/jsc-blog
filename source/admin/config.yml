@@ -1,6 +1,7 @@
 # 后端配置 - 必填
 backend:
   name: git-gateway # 使用 GitHub 作为后端
+  branch: main
 
 # 媒体文件配置
 media_folder: "source/images/uploads" # 用户上传的图片将保存在此
